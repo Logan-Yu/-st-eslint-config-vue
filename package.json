@@ -1,14 +1,14 @@
 {
   "name": "@zainli/eslint-config-vue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint config for Vue",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:gfez/eslint-config-react-native.git"
+    "url": "git@github.com:Logan-Yu/eslint-config-vue.git"
   },
-  "homepage": "https://github.com/gfez/eslint-config-react-native",
+  "homepage": "git@github.com:Logan-Yu/eslint-config-vue.git",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.9.0",
     "@typescript-eslint/parser": "^4.9.0",
